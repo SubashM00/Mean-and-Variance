@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
-## Developed By:Subash M 
-## Register No:212223040210
+## Developed By: Subash M 
+## Register No: 212223040210
 
 # Aim : 
 
